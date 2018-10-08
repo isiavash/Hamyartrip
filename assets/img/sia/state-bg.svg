@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="487px" height="447px" viewBox="0 0 487 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M425.524716,387.3454 C539.083536,317.843646 511.790933,217.877021 439.886692,163.861124 C367.982451,109.845227 291.01717,59.4550114 183.536684,26.1762612 C5.26985668,-28.2394341 -88.7649758,207.396813 38.615789,309.52136 C85.4390892,347.060845 156.579931,368.89554 209.514373,382.401242 C296.500683,404.594944 385.856524,411.623645 425.524716,387.3454 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#F4F9FD" transform="translate(241.095968, 210.356807) rotate(-60.000000) translate(-241.095968, -210.356807) " xlink:href="#path-1"></use>
+    </g>
+</svg>
